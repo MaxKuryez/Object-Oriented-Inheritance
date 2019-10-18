@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1544456460 source:c:\users\admin\desktop\сишечка\figures\src\figure.cpp
+	"Figure.h"
+
+1544458352 c:\users\admin\desktop\сишечка\figures\include\figure.h
+	<string>
+
+1544458229 source:c:\users\admin\desktop\сишечка\figures\src\cat.cpp
+	"Cat.h"
+	"Figure.h"
+	<iostream>
+
+1544458069 c:\users\admin\desktop\сишечка\figures\include\cat.h
+	"Figure.h"
+	<string>
+
+1544458352 source:c:\users\admin\desktop\сишечка\figures\main.cpp
+	<iostream>
+	<vector>
+	"Figure.h"
+	"Cat.h"
+
